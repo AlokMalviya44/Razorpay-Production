@@ -1,0 +1,22 @@
+{
+  "name": "razorpay-production",
+  "version": "1.0.0",
+  "description": "This is the setup of razorpay using production code format",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "razorpay",
+    "production"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "razorpay": "^2.9.5"
+  }
+}
